@@ -2,13 +2,14 @@
 using System.Reflection.Emit;
 using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
+using StudentManagement;
 
 void PrintStudentInfo(List<Student> studentList)
 {
-    Console.WriteLine("Student Information:");
+    Console.WriteLine("====================\nStudent Information:\n====================\n------------------------------------------");
     foreach (Student stu in studentList)
     {
-        Console.WriteLine("---------------------\nName : {0} \nID : {1}\nDOB : {2}\nEmail : {3}\nPersonal phone : {4}\n---------------------", stu.name, stu.generateId(), stu.GetDOB(), stu.GetEmail(), stu.phoneNumber);
+        Console.WriteLine("Name : {0} \nID : {1}\nDOB : {2}\nEmail : {3}\nPersonal phone : {4}\n------------------------------------------", stu.name, stu.generateId(), stu.GetDOB(), stu.GetEmail(), stu.phoneNumber);
     }
 }
 Student stu1 = new Student();

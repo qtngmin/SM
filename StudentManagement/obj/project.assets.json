@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\SM\\StudentManagement\\StudentManagement.csproj",
+      "projectUniqueName": "D:\\ASP.NET-proj\\Console-app\\SM\\StudentManagement\\StudentManagement.csproj",
       "projectName": "StudentManagement",
-      "projectPath": "D:\\C#\\SM\\StudentManagement\\StudentManagement.csproj",
+      "projectPath": "D:\\ASP.NET-proj\\Console-app\\SM\\StudentManagement\\StudentManagement.csproj",
       "packagesPath": "C:\\Users\\qtngm\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\SM\\StudentManagement\\obj\\",
+      "outputPath": "D:\\ASP.NET-proj\\Console-app\\SM\\StudentManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
