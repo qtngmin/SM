@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+a4UovGkAla5vhswVZf4CLVWfNyr+CVvKXj8W30shxESwRg8AWTT6KjAMTBRmMXB7qdeWrO7Hp58BpmfZi1s7w==",
+  "dgSpecHash": "h8T/kQffx4OyLeGN7wBL2M28cQvNRpyqdVlT+LJc6RwCXUWKbSRW4jh/hXVPN1xw9vtVFjeVjeswmmRDsFKefg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\SM\\StudentManagement\\StudentManagement.csproj",
+  "projectFilePath": "D:\\ASP.NET-proj\\Console-app\\SM\\StudentManagement\\StudentManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
